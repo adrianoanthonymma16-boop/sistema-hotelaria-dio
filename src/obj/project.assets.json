@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Cpf.Cnpj/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Library.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cpf.Cnpj/1.0.2": {
+      "sha512": "h7CLzBwP8sDKLMhYiiU77pbSWTtgOk+UUwB1SLs+l93RSEzIov/6bH8H8YkZGCri9l+ETkzV6Qfxf1cahUfpzw==",
+      "type": "package",
+      "path": "cpf.cnpj/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README nuget.md",
+        "cpf.cnpj.1.0.2.nupkg.sha512",
+        "cpf.cnpj.nuspec",
+        "lib/netstandard2.0/Library.dll",
+        "logo.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Cpf.Cnpj >= 1.0.2"
+    ]
+  },
+  "packageFolders": {
+    "/home/tony/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/tony/C#/9_ReservasSuite/src/9_ReservasSuite.csproj",
+      "projectName": "9_ReservasSuite",
+      "projectPath": "/home/tony/C#/9_ReservasSuite/src/9_ReservasSuite.csproj",
+      "packagesPath": "/home/tony/.nuget/packages/",
+      "outputPath": "/home/tony/C#/9_ReservasSuite/src/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/tony/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Cpf.Cnpj": {
+            "target": "Package",
+            "version": "[1.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCWL3RouX9nKhd44KOwLhEWgZqR4vKeTGQjhuWB8CdZggoa8+2C/YkzKMwudYbyJsjE+DCKECEpDXfhtLbSnyg==",
+  "success": true,
+  "projectFilePath": "/home/tony/C#/9_ReservasSuite/src/9_ReservasSuite.csproj",
+  "expectedPackageFiles": [
+    "/home/tony/.nuget/packages/cpf.cnpj/1.0.2/cpf.cnpj.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

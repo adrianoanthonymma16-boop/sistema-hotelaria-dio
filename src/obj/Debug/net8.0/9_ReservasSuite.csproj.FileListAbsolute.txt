@@ -1,0 +1,17 @@
+/home/tony/C#/9_ReservasSuite/src/bin/Debug/net8.0/9_ReservasSuite
+/home/tony/C#/9_ReservasSuite/src/bin/Debug/net8.0/9_ReservasSuite.deps.json
+/home/tony/C#/9_ReservasSuite/src/bin/Debug/net8.0/9_ReservasSuite.runtimeconfig.json
+/home/tony/C#/9_ReservasSuite/src/bin/Debug/net8.0/9_ReservasSuite.dll
+/home/tony/C#/9_ReservasSuite/src/bin/Debug/net8.0/9_ReservasSuite.pdb
+/home/tony/C#/9_ReservasSuite/src/bin/Debug/net8.0/Library.dll
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.csproj.AssemblyReference.cache
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.AssemblyInfoInputs.cache
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.AssemblyInfo.cs
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.csproj.CoreCompileInputs.cache
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.csproj.CopyComplete
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.dll
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/refint/9_ReservasSuite.dll
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.pdb
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/9_ReservasSuite.genruntimeconfig.cache
+/home/tony/C#/9_ReservasSuite/src/obj/Debug/net8.0/ref/9_ReservasSuite.dll
